@@ -382,11 +382,6 @@ section {
   justify-content: center;
 }
 
-.about-art img {
-  border-radius: 16px;
-  box-shadow: var(--shadow);
-}
-
 .about-content h2 {
   color: var(--navy-deep);
   font-size: clamp(1.6rem, 2.8vw, 2.1rem);
